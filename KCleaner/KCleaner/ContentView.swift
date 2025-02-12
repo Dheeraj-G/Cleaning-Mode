@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("What?")
+            Text("Press the option Key 3 times to lock your keys!")
         }
         .padding()
     }
